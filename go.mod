@@ -1,4 +1,4 @@
-module huging-face
+module github.com/nandasafiqalfiansyah/hugTransformers
 
 go 1.21.2
 

@@ -4,9 +4,10 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"huging-face/model"
 	"io/ioutil"
 	"net/http"
+
+	"github.com/nandasafiqalfiansyah/hugTransformers/model"
 )
 
 type HuggingFaceRepository struct {

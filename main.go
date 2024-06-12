@@ -1,12 +1,13 @@
 package main
 
 import (
-	"huging-face/model"
-	"huging-face/repository"
-	"huging-face/service"
 	"log"
 	"net/http"
 	"os"
+
+	"github.com/nandasafiqalfiansyah/hugTransformers/model"
+	"github.com/nandasafiqalfiansyah/hugTransformers/repository"
+	"github.com/nandasafiqalfiansyah/hugTransformers/service"
 
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"

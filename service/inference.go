@@ -1,8 +1,8 @@
 package service
 
 import (
-	"huging-face/model"
-	"huging-face/repository"
+	"github.com/nandasafiqalfiansyah/hugTransformers/model"
+	"github.com/nandasafiqalfiansyah/hugTransformers/repository"
 )
 
 type InferenceService struct {
